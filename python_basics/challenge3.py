@@ -4,12 +4,12 @@
 
 import math
 for x in range(-180, +180, 30):
-    x = math.radians(x)
-    print(math.sin(x))
+    y = math.radians(x)
+    print(f"Sine of {x} = {math.sin(y)}")
 for x in range(-180, +180, 30):
-    x = math.radians(x)
-    print(math.cos(x))
+    y = math.radians(x)
+    print(f"Cosine of {x} = {math.cos(y)}")
 for x in range(-180, +180, 30):
-    x = math.radians(x)
-    print(math.tan(x))
+    y = math.radians(x)
+    print(f"Tangent of {x} = {math.tan(y)}")
     
