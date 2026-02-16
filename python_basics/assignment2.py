@@ -1,5 +1,6 @@
 #Ethan Mbila
 #12/02/2026
+#string formatting
 bal2 = "Ksh120"
 message = "CONFIRMED: you have received Ksh40 from Phillip"
 munyun = message.split(" ")
