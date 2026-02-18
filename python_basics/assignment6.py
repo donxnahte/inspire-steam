@@ -1,3 +1,3 @@
 #Name :Ethan Mbila
-#Date :16/02/2026
-#
+#Date :17/02/2026
+#program to display a triangle, diamond using *
